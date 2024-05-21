@@ -43,7 +43,6 @@
 
 .input_email::placeholder {
     color: #E0E0E0;
-    padding-left: 11px;
 }
 
 .input_password {
@@ -57,7 +56,6 @@
 
 .input_password::placeholder {
     color: #9E9E9E;
-    padding-left: 11px;
     padding-top: 15px;
     font-size: 16px;
 }
